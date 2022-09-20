@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RootsCalculator</string>
+    <string name="twoDegreeVar">Coefficent for x^2</string>
+    <string name="oneDegreeVar">Coefficient for x</string>
+    <string name="constantTerm">Constant Term</string>
+    <string name="button_Text">Calculate</string>
+    <string name="root1_text">Root 1: </string>
+    <string name="root2_text">Root 2: </string>
+    <string name="exit_button">Exit</string>
+
+</resources>
